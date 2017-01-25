@@ -12,7 +12,7 @@ const postfix = "\\007"
 const version = "v0.1.0"
 
 func helpMsg() {
-	fmt.Printf("TermTitle\nVersion:%s\nChange the terminal title in toolbar.\n\nUsage:\n    TermTitle [title]\n", version)
+	fmt.Printf("givename\nVersion:%s\nChange the terminal title in toolbar.\n\nUsage:\n    givename [title]\n", version)
 }
 
 func main() {

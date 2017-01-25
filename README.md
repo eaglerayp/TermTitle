@@ -1,8 +1,9 @@
-# TermTitle
+# givename
 
 ## Usage
 
-Chane terminal title to Kappa:
-```
-./TermTitle Kappa
+Change terminal title to "Kappa":
+
+```sh
+./givename Kappa
 ```
